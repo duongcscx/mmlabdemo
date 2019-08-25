@@ -14,9 +14,8 @@ Giảng viên sử dụng tài khoản được cấp để đăng nhập hệ t
 
 - Màn hình thông tin mã lớp mà Giảng Viên dạy:   
 ![alt text](https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/class.png)   
+Nếu lớp Giảng Viên chưa có thì thêm mã lớp mới cần điểm danh:   
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/add_class.png" width="300" height="500">   
-Nếu lớp Giảng Viên chưa có thì thêm mã lớp mới cần điểm danhắng
-
 Sau khi chọn lớp để điểm danh, giảng viên chọn chức năng để tiếp tục chương trình:    
 ![alt text](https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/mode.png)   
 (1) Checkin: Điểm danh đối với các sinh viên đã đăng ký.   
