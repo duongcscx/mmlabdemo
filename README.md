@@ -33,5 +33,5 @@ Mọi thắc mắc, góp ý vui lòng email: mmlab@uit.edu.vn
 
 Nhóm thực hiện Project:  
 
-Thừa Nguyễn, Dương Nguyễn, Huy Nguyễn, Tien Do, Thanh Ngo Duc, Duy-Dinh Le
+Thừa Nguyễn, Duong Nguyen Xuan, Huy Nguyễn, Tien Do, Thanh Ngo Duc, Duy-Dinh Le
 
