@@ -8,22 +8,22 @@ Mô tả phần mềm: Phần mềm thích hợp chạy trên mobile cho các th
 Sau đây là một số hướng dẫn sử dụng và giải thích các màn hình: 
 
 - Màn hình đăng nhập hệ thống đối với các Giảng viên:
-
+![alt text](https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/login.png)
 
 Giảng viên sử dụng tài khoản được cấp để đăng nhập hệ thống, sau đó hệ thống sẽ liệt kê ra danh sách lớp mà Giảng Viên dạy
 
 - Màn hình thông tin mã lớp mà Giảng Viên dạy:
-
+![alt text](https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/class.png)
 
 Nếu lớp Giảng Viên chưa có thì thêm mã lớp mới cần điểm danhắng
 
 Sau khi chọn lớp để điểm danh, giảng viên chọn chức năng để tiếp tục chương trình: 
-
+![alt text](https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/mode.png)
 (1) Checkin: Điểm danh đối với các sinh viên đã đăng ký.
-
+![alt text](https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/checkin.png)
  
 (2) Đăng ký đối với sinh viên chưa có trong hệ thống.
-
+![alt text](https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/register.png)
 
 Đối với việc checkin: Sau khi nhận ra sinh viên và xác nhận đúng sinh viên thì việc điểm danh đã thực hiện xong.
 
