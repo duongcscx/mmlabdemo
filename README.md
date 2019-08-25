@@ -6,15 +6,16 @@ UITSMARTCHECKIN là phần mềm được phát triển nhằm phục vụ cho v
 Mô tả phần mềm: Phần mềm thích hợp chạy trên mobile cho các thiết bị Android verison 8.0 
 
 Sau đây là một số hướng dẫn sử dụng và giải thích các màn hình: 
-
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/splashscreen.png" width="300" height="500">
 - Màn hình đăng nhập hệ thống đối với các Giảng viên:
 ![alt text](https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/login.png)
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/login.png" width="300" height="500">
 
 Giảng viên sử dụng tài khoản được cấp để đăng nhập hệ thống, sau đó hệ thống sẽ liệt kê ra danh sách lớp mà Giảng Viên dạy
 
 - Màn hình thông tin mã lớp mà Giảng Viên dạy:
 ![alt text](https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/class.png)
-
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/add_class.png" width="300" height="500">
 Nếu lớp Giảng Viên chưa có thì thêm mã lớp mới cần điểm danhắng
 
 Sau khi chọn lớp để điểm danh, giảng viên chọn chức năng để tiếp tục chương trình: 
