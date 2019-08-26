@@ -13,6 +13,7 @@ Sau đây là một số hướng dẫn sử dụng và giải thích các màn 
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/splashscreen.png" width="300" height="500">  
 
 >Bấm vào `ĐĂNG NHẬP` để vào màn hình đăng nhập
+
 >Bấm vào `HƯỚNG DẪN SỬ DỤNG` để tới trang web hướng dẫn sử dụng (trang này)
 
 ## Màn hình đăng nhập hệ thống đối với các Giảng viên: 
@@ -21,6 +22,7 @@ Sau đây là một số hướng dẫn sử dụng và giải thích các màn 
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/login.png" width="300" height="500">   
 
 >Sử dụng tài khoản giảng viên để đăng nhập, lưu ý có phân biệt chữ hoa chữ thường.
+
 >Bấm `ĐĂNG nhập` để đăng nhập vào hệ thống
 
 ## Màn hình chọn lớp điểm danh 
@@ -46,6 +48,7 @@ Sau đây là một số hướng dẫn sử dụng và giải thích các màn 
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/mode.png" width="300" height="500">  
 
 >Bấm `ĐIỂM DANH` để vào chức năng điểm danh sinh viên
+
 >Bấm `ĐĂNG KÍ` để đăng kí sinh viên mới
 
 ### Màn hình điểm danh   
@@ -61,7 +64,9 @@ Sau đây là một số hướng dẫn sử dụng và giải thích các màn 
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/checkin1.jpg" width="300" height="617">   
  
 >Nếu thông tin chính xác, nhấn `ĐIỂM DANH` để tiến hành điểm danh
+
 >Nếu thông tin không đúng, nhấn `SAI THÔNG TIN` để từ chối thông tin
+
 >Theo dõi các thông báo để chắc chắn dữ liệu đã được gửi đi và xử lý
 
 ### Màn hình đăng kí
@@ -70,6 +75,7 @@ Sau đây là một số hướng dẫn sử dụng và giải thích các màn 
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/register.jpg" width="300" height="617">  
 
 >Sinh viên làm theo hướng dẫn hiển thị trên màn hình để lấy dữ liệu khuôn mặt
+
 >Nếu trong quá trình lấy dữ liệu, chất lượng ảng kém, chạm vào hình muốn lấy lại và thử lại
 
 #### Màn hình nhập thông tin cá nhân
@@ -78,9 +84,13 @@ Sau đây là một số hướng dẫn sử dụng và giải thích các màn 
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/register1.jpg" width="300" height="617">   
 
 >Nhập MSSV của sinh viên
+
 >Nhấn `ĐĂNG KÍ` để tiến hành đăng kì
+
 >Nhấn `THOÁT` để thoát ra màn hình chọn chức năng
+
 >Theo dõi các thông báo để chắc chắn dữ liệu đã được gửi đi và xử lý
+
 
 ___
 
