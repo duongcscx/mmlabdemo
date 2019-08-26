@@ -1,12 +1,12 @@
-# UITSMARTCHECKIN 
+# UIT SMART CHECKIN 
 
-*UITSMARTCHECKIN* là phần mềm được phát triển nhằm phục vụ cho việc điểm danh sinh viên tại trường Đại học Công Nghệ Thông Tin thông qua công nghệ nhận diện khuôn mặt (Face Recognition). Với ứng dụng này sinh viên khi đến lớp học chỉ cần đứng trước một tablet hoặc một smartphone để xác nhận cho việc điểm danh thay vì cách gọi tên giơ tay truyền thống.   
+*UIT SMART CHECKIN* là phần mềm được phát triển nhằm phục vụ cho việc điểm danh sinh viên tại trường Đại học Công Nghệ Thông Tin thông qua công nghệ nhận diện khuôn mặt (Face Recognition). Với ứng dụng này sinh viên khi đến lớp học chỉ cần đứng trước một tablet hoặc một smartphone để xác nhận cho việc điểm danh thay vì cách gọi tên giơ tay truyền thống.   
 
 Phần mềm thích hợp chạy trên các thiết bị Android verison `8.1` trở xuống (tối thiểu `4.0.4`)
 
 ___
 
-Sau đây là một số hướng dẫn sử dụng và giải thích các màn hình:   
+*Sau đây là một số hướng dẫn sử dụng và giải thích các màn hình:*
 
 ## Màn hình bắt đầu
 
@@ -91,7 +91,7 @@ Sau đây là một số hướng dẫn sử dụng và giải thích các màn 
 
 >Theo dõi các thông báo để chắc chắn dữ liệu đã được gửi đi và xử lý
 
-##Một số lỗi gặp phải khi sử dụng
+## Một số lỗi gặp phải khi sử dụng
 >Các lỗi đã được thông báo ra màn hình, ngoài ra còn một số vấn đề
 
 >Updating
