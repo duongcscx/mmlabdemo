@@ -1,13 +1,19 @@
-**1. UITSMARTCHECKIN**  
+#UITSMARTCHECKIN 
 
-UITSMARTCHECKIN là phần mềm được phát triển nhằm phục vụ cho việc điểm danh sinh viên tại trường Đại học Công Nghệ Thông Tin thông qua công nghệ nhận diện khuôn mặt (Face Recognition). Với ứng dụng này sinh viên khi đến lớp học chỉ cần đứng trước một tablet hoặc một smartphone để xác nhận cho việc điểm danh thay vì cách gọi tên giơ tay truyền thống.   
+*UITSMARTCHECKIN* là phần mềm được phát triển nhằm phục vụ cho việc điểm danh sinh viên tại trường Đại học Công Nghệ Thông Tin thông qua công nghệ nhận diện khuôn mặt (Face Recognition). Với ứng dụng này sinh viên khi đến lớp học chỉ cần đứng trước một tablet hoặc một smartphone để xác nhận cho việc điểm danh thay vì cách gọi tên giơ tay truyền thống.   
 
-Mô tả phần mềm: Phần mềm thích hợp chạy trên mobile cho các thiết bị Android verison 8.0   
+Phần mềm thích hợp chạy trên các thiết bị Android verison `8.1` trở xuống.
+
+___
 
 Sau đây là một số hướng dẫn sử dụng và giải thích các màn hình:   
 
+##Màn hình bắt đầu
 
-<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/splashscreen.png" width="300" height="500">   
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/splashscreen.png" width="300" height="500">  
+
+>Bấm vào `BẮT ĐẦU` để bắt đầu sử dụng
+
 - Màn hình đăng nhập hệ thống đối với các Giảng viên:   
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/login.png" width="300" height="500">   
 
