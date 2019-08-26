@@ -2,7 +2,7 @@
 
 *UITSMARTCHECKIN* là phần mềm được phát triển nhằm phục vụ cho việc điểm danh sinh viên tại trường Đại học Công Nghệ Thông Tin thông qua công nghệ nhận diện khuôn mặt (Face Recognition). Với ứng dụng này sinh viên khi đến lớp học chỉ cần đứng trước một tablet hoặc một smartphone để xác nhận cho việc điểm danh thay vì cách gọi tên giơ tay truyền thống.   
 
-Phần mềm thích hợp chạy trên các thiết bị Android verison `8.1` trở xuống.
+Phần mềm thích hợp chạy trên các thiết bị Android verison `8.1` trở xuống (tối thiểu `4.0.4`)
 
 ___
 
@@ -91,18 +91,21 @@ Sau đây là một số hướng dẫn sử dụng và giải thích các màn 
 
 >Theo dõi các thông báo để chắc chắn dữ liệu đã được gửi đi và xử lý
 
+##Một số lỗi gặp phải khi sử dụng
+>Các lỗi đã được thông báo ra màn hình, ngoài ra còn một số vấn đề
 
+>Updating
 ___
 
 Mọi thắc mắc, góp ý vui lòng email: mmlab@uit.edu.vn  
 
 ## Nhóm thực hiện Project:  
-* [Thanh Ngo Duc](www.facebook.com)  - Project Manager
-* [Duy-Dinh Le](www.facebook.com)  - Project Manager
-* [Tiến Đỗ](www.facebook.com)  - Project Manager
-* [Thừa Nguyễn](www.facebook.com)  - Developer - Team Server
-* [Duong Nguyen Xuan](www.facebook.com)  - Developer - Team Mobile
-* [Huy Nguyễn](www.facebook.com)  -Developer - Team Mobile
+* [Thanh Duc Ngo](https://www.facebook.com/ngodthanh)  - Project Manager
+* [Duy Dinh Le](https://www.facebook.com/profile.php?id=100014113847694)  - Project Manager
+* [Tiến Đỗ](https://www.facebook.com/dotien)  - Project Manager
+* [Thừa Nguyễn](https://www.facebook.com/Unknown.name.789)  - Developer - Team Server
+* [Duong Nguyen Xuan](https://www.facebook.com/duonghoangvn)  - Developer - Team Mobile
+* [Huy Nguyễn](https://www.facebook.com/rknguyen)  -Developer - Team Mobile
 
-Cảm ơn bạn [Đào Thị Thu Nga](www.facebook.com) đã chịu khó làm mẫu ảnh =)).
+Cảm ơn bạn [Đào Thị Thu Nga](https://www.facebook.com/vonguocmo03092000) đã chịu khó làm mẫu ảnh =)).
 
