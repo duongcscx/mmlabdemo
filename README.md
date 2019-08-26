@@ -92,7 +92,9 @@ ___
 >Theo dõi các thông báo để chắc chắn dữ liệu đã được gửi đi và xử lý
 
 ## Một số lỗi gặp phải khi sử dụng
->Các lỗi đã được thông báo ra màn hình, ngoài ra còn một số vấn đề
+>Các lỗi đã được thông báo ra màn hình, ngoài ra còn một số vấn đề cần lưu ý
+
+>Tải app cần dựa vào phiên bản Android trong máy để tải bản phù hợp
 
 >Updating
 ___
@@ -107,5 +109,5 @@ Mọi thắc mắc, góp ý vui lòng email: mmlab@uit.edu.vn
 * [Duong Nguyen Xuan](https://www.facebook.com/duonghoangvn)  - Developer - Team Mobile
 * [Huy Nguyễn](https://www.facebook.com/rknguyen)  -Developer - Team Mobile
 
-Cảm ơn bạn [Đào Thị Thu Nga](https://www.facebook.com/vonguocmo03092000) đã chịu khó làm mẫu ảnh =)).
+Cảm ơn bạn [Đào Thị Thu Nga](https://www.facebook.com/vonguocmo03092000) đã đồng ý làm mẫu ảnh.
 
