@@ -10,7 +10,7 @@ Sau đây là một số hướng dẫn sử dụng và giải thích các màn 
 - Màn hình đăng nhập hệ thống đối với các Giảng viên:   
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/login.png" width="300" height="500">   
 
-Giảng viên sử dụng tài khoản được cấp để đăng nhập hệ thống, sau đó hệ thống sẽ liệt kê ra danh sách lớp mà Giảng Viên dạy   
+Giảng viên sử dụng tài khoản được cấp để đăng nhập hệ thống, sau đó hệ thống sẽ liệt kê ra danh sách lớp mà Giảng Viên giảng dạy   
 
 - Màn hình thông tin mã lớp mà Giảng Viên dạy:   
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/class.png" width="300" height="500">   
@@ -20,9 +20,11 @@ Sau khi chọn lớp để điểm danh, giảng viên chọn chức năng để
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/mode.png" width="300" height="500">   
 (1) Checkin: Điểm danh đối với các sinh viên đã đăng ký.   
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/checkin.png" width="300" height="500">   
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/checkin1.png" width="300" height="500">   
  
 (2) Đăng ký đối với sinh viên chưa có trong hệ thống.   
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/register.png" width="300" height="500">   
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/register1.png" width="300" height="500">   
 
 Đối với việc checkin: Sau khi nhận ra sinh viên và xác nhận đúng sinh viên thì việc điểm danh đã thực hiện xong.   
 
