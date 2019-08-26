@@ -5,6 +5,8 @@ UITSMARTCHECKIN là phần mềm được phát triển nhằm phục vụ cho v
 Mô tả phần mềm: Phần mềm thích hợp chạy trên mobile cho các thiết bị Android verison 8.0   
 
 Sau đây là một số hướng dẫn sử dụng và giải thích các màn hình:   
+
+
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/splashscreen.png" width="300" height="500">   
 - Màn hình đăng nhập hệ thống đối với các Giảng viên:   
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/login.png" width="300" height="500">   
