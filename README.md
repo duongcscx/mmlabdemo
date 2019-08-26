@@ -19,11 +19,11 @@ Sau khi chọn lớp để điểm danh, giảng viên chọn chức năng để
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/mode.png" width="300" height="500">   
 (1) Checkin: Điểm danh đối với các sinh viên đã đăng ký.   
 <img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/checkin.png" width="300" height="500">   
-<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/checkin1.png" width="300" height="500">   
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/checkin1.jpg" width="300" height="500">   
  
 (2) Đăng ký đối với sinh viên chưa có trong hệ thống.   
-<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/register.png" width="300" height="500">   
-<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/register1.png" width="300" height="500">   
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/register.jpg" width="300" height="500">   
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/register1.jpg" width="300" height="500">   
 
 Đối với việc checkin: Sau khi nhận ra sinh viên và xác nhận đúng sinh viên thì việc điểm danh đã thực hiện xong.   
 
