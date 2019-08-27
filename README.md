@@ -10,7 +10,7 @@ ___
 
 ## Màn hình bắt đầu
 
-<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/splashscreen.png" width="300" height="500">  
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/samsung_welcome.jpg">  
 
 >Bấm vào `ĐĂNG NHẬP` để vào màn hình đăng nhập
 
@@ -19,7 +19,7 @@ ___
 ## Màn hình đăng nhập hệ thống đối với các Giảng viên: 
 >Tài khoản dành cho giảng viên sẽ được cấp riêng cho từng giảng viên sử dụng hệ thống (liên hệ nhà phát triển)
 
-<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/login.png" width="300" height="500">   
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/"samsung_login.jpg>   
 
 >Sử dụng tài khoản giảng viên để đăng nhập, lưu ý có phân biệt chữ hoa chữ thường.
 
@@ -31,21 +31,21 @@ ___
 ### Chọn lớp có sẵn
 >Nếu giảng viên muốn điểm danh lớp đã có trên hệ thông từ trước, vui lòng chọn từ danh sách mã lớp
 
-<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/class.png" width="300" height="500">   
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/samsung_selectClass.jpg">   
 
 >Chọn lớp muốn điểm danh và bấm `XÁC NHẬN`, lớp học được chọn sẽ được áp dụng vào hệ thống điểm danh
 
 ### Thêm lớp mới
 >Nếu lớp Giảng Viên chưa có thì thêm mã lớp mới cần điểm danh, nhấn `THÊM LỚP`
 
-<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/add_class.png" width="300" height="500">  
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/samsung_addClass.jpg">  
 
 >Nhập mã lớp học và bấm `Thêm` để thêm lớp vào hệ thống, lớp học được thêm mới sẽ được áp dụng vào hệ thống điểm danh
 
 ## Màn hình chọn chức năng
 >Chọn chức năng điểm danh sinh viên hoặc đăng kí sinh viên mới
 
-<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/mode.png" width="300" height="500">  
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/samsung_start.jpg">  
 
 >Bấm `ĐIỂM DANH` để vào chức năng điểm danh sinh viên
 
@@ -54,14 +54,19 @@ ___
 ### Màn hình điểm danh   
 >Màn hình chính để nhận diện khuôn mặt sinh viên
 
-<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/checkin.png" width="300" height="500">   
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/samsung_recognitionUI.jpg">   
 
 >Sinh viên làm theo hướng dẫn để lấy khuôn mặt gửi lên hệ thống xử lý
+
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/samsung_process.jpg"> 
+
+>Chờ đợi để hệ thông xử lý hình ảnh của sinh viên, tốc độ phụ thuộc và đường truyền mạng của người dùng  
+
 
 #### Màn hình xác thực thông tin
 >Sau khi gửi dữ liệu lên hệ thống máy chủ, sinh viên cần xác thực thông tin
 
-<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/checkin1.jpg" width="300" height="617">   
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/samsung_recognition.jpg">   
  
 >Nếu thông tin chính xác, nhấn `ĐIỂM DANH` để tiến hành điểm danh
 
@@ -72,7 +77,7 @@ ___
 ### Màn hình đăng kí
 >Màn hình đăng kí dành cho sinh viên chưa có trong hệ thống hoặc muốn cập nhật thông tin   
 
-<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/register.jpg" width="300" height="617">  
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/samsung_registerUI.jpg">  
 
 >Sinh viên làm theo hướng dẫn hiển thị trên màn hình để lấy dữ liệu khuôn mặt
 
@@ -81,7 +86,7 @@ ___
 #### Màn hình nhập thông tin cá nhân
 >Sau khi lấy đủ dữ liệu, sinh viên cần nhập thông tin các nhân để đăng kí vào hệ thống
 
-<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/register1.jpg" width="300" height="617">   
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/samsung_register.jpg">   
 
 >Nhập MSSV của sinh viên
 
@@ -104,10 +109,10 @@ Mọi thắc mắc, góp ý vui lòng email: mmlab@uit.edu.vn
 ## Nhóm thực hiện Project:  
 * [Thanh Duc Ngo](https://www.facebook.com/ngodthanh)  - Project Manager
 * [Duy Dinh Le](https://www.facebook.com/profile.php?id=100014113847694)  - Project Manager
-* [Tiến Đỗ](https://www.facebook.com/dotien)  - Project Manager
+* [Tiến Đỗ](https://www.facebook.com/dotien)  - Team Leader
 * [Thừa Nguyễn](https://www.facebook.com/Unknown.name.789)  - Developer - Team Server
-* [Duong Nguyen Xuan](https://www.facebook.com/duonghoangvn)  - Developer - Team Mobile
-* [Huy Nguyễn](https://www.facebook.com/rknguyen)  -Developer - Team Mobile
+* [Duong Nguyen Xuan](https://www.facebook.com/duonghoangvn)  - Developer - Team Mobile Android
+* [Huy Nguyễn](https://www.facebook.com/rknguyen)  -Developer - Team Mobile IOS
 
-Cảm ơn bạn [Đào Thị Thu Nga](https://www.facebook.com/vonguocmo03092000) đã đồng ý làm mẫu ảnh.
+Cảm ơn bạn [Đào Thị Thu Nga](https://www.facebook.com/vonguocmo03092000) xinh đẹp đã đồng ý làm mẫu ảnh.
 
