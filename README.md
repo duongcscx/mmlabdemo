@@ -58,7 +58,7 @@ ___
 
 >Sinh viên làm theo hướng dẫn để lấy khuôn mặt gửi lên hệ thống xử lý
 
-<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/samsung_process.jpg"> 
+<img src="https://raw.githubusercontent.com/tiendv/mmlabdemo/master/pictures/samsung_process.jpg"  weight="540" height="1110"> 
 
 >Chờ đợi để hệ thông xử lý hình ảnh của sinh viên, tốc độ phụ thuộc và đường truyền mạng của người dùng  
 
