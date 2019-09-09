@@ -108,13 +108,13 @@ ___
 Mọi thắc mắc, góp ý vui lòng email: mmlab@uit.edu.vn  
 
 ## Nhóm thực hiện Project:  
-* [Thanh Duc Ngo](https://www.facebook.com/ngodthanh)  - Project Manager
-* [Duy Dinh Le](https://www.facebook.com/profile.php?id=100014113847694)  - Project Manager
-* [Tiến Đỗ](https://www.facebook.com/dotien)  - Team Leader
-* [Thừa Nguyễn](https://www.facebook.com/Unknown.name.789)  - Developer - Team Server
-* [Duong Nguyen Xuan](https://www.facebook.com/duonghoangvn)  - Developer - Team Mobile Android
-* [Huy Nguyễn](https://www.facebook.com/rknguyen)  -Developer - Team Mobile IOS
+* [Thanh Duc Ngo] - Project Manager
+* [Duy Dinh Le]- Project Manager
+* [Tiến Đỗ]  - Team Leader
+* [Thừa Nguyễn] - Developer - Team Server
+* [Duong Nguyen Xuan]  - Developer - Team Mobile Android
+* [Huy Nguyễn]  -Developer - Team Mobile IOS
 
-Cảm ơn bạn [Đào Thị Thu Nga](https://www.facebook.com/vonguocmo03092000) xinh đẹp đã đồng ý làm mẫu ảnh.
+Cảm ơn bạn [Đào Thị Thu Nga] đã đồng ý làm mẫu ảnh.
 
 @Create by Duong NX.
